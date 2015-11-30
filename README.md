@@ -1,2 +1,2 @@
-# getCP3Aviruscleanerlog
+# getCP3Aviruscleanerlog (2006)
 Perl script que obtiene mediante HTTP GET los logs rotados de viruscleaner de los CP3A (nodos SMTP de Critical Path). Calcula el número de veces que cada virus ha sido filtrado por el sistema, incluyendo información sobre la clase de virus a la que pertenece (Email-Worm, Net-Worm, Trojan-Downloader, etc). Nota: El cliente sustituyó los nodos CP3A hace unos años, ayudando las estadísticas de este script a tomar una decisón.
